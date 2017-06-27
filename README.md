@@ -20,3 +20,6 @@ http://blog.deraco.fr/2015/05/write-html-slides-with-asciidoc-and.html
 sources:
 https://github.com/n0vember/securisation_poste_de_travail/tree/master
 
+slides:
+https://bigormeaux.github.io/play-with-reveal-js/
+
